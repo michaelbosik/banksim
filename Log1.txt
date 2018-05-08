@@ -1,0 +1,37 @@
+Script started on Fri 16 Feb 2018 09:30:00 PM EST
+]0;sstorm0@U16: ~/git/homework-4-g/src[01;32msstorm0@U16[00m:[01;34m~/git/homework-4-g/src[00m$ eclipsespepseECLIPSEeclipse./ctest[2Pctest./ctest[2Pctest./ctesteclipseECLIPSEeclipsespepse[KeclipsespepseECLIPSEeclipsespepse[K./qSim 50 50 50 50
+Number of customers: 50 Total time required: 50
+Number of tellers: 50 Queuing type: One line per teller
+Average service time: 50
+Maximum amount of time in bank: 1.4013e-45
+Total teller service time: 9.18341e-41 Total teller idle time: 16171.1
+]0;sstorm0@U16: ~/git/homework-4-g/src[01;32msstorm0@U16[00m:[01;34m~/git/homework-4-g/src[00m$ ./qSim 50 50 50 50[11Peclipsespepsespepse./qSim 50 50 50 50[K./qSim 50 50 50 50[11PeclipsespepseECLIPSEeclipse./ctest[2Pctest./ctest.cmyString[1Pctest.c[K[2Pctest./ctesteclipseECLIPSEeclipsespepse./qSim 50 50 50 50[Kscrpit[K[K[K[K[K[Kscript /[K/example.[K[K[K[K[K[K[K[KExamples/Log1.txt
+Script started, file is /Examples/Log1.txt
+script: cannot open /Examples/Log1.txt: No such file or directory
+Script done, file is /Examples/Log1.txt
+Segmentation fault (core dumped)
+]0;sstorm0@U16: ~/git/homework-4-g/src[01;32msstorm0@U16[00m:[01;34m~/git/homework-4-g/src[00m$ script /Examples/Log1.txt[7P./qSim 50 50 50 50script /Examples/Log1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./Examples/Log1.txt
+Script started, file is ./Examples/Log1.txt
+]0;sstorm0@U16: ~/git/homework-4-g/src[01;32msstorm0@U16[00m:[01;34m~/git/homework-4-g/src[00m$ eclipsespepsespepse[K./qSim 50 50 50 50
+Number of customers: 50 Total time required: 50
+Number of tellers: 50 Queuing type: One line per teller
+Average service time: 50
+Maximum amount of time in bank: 1.4013e-45
+Total teller service time: 9.18341e-41 Total teller idle time: 1.6069e+19
+]0;sstorm0@U16: ~/git/homework-4-g/src[01;32msstorm0@U16[00m:[01;34m~/git/homework-4-g/src[00m$ ^C
+]0;sstorm0@U16: ~/git/homework-4-g/src[01;32msstorm0@U16[00m:[01;34m~/git/homework-4-g/src[00m$ ./qSim 50 50 50 50[11Peclipse./qSim 50 50 50 50[K./qSim 50 50 50 50[11Peclipsespepsespepse./qSim 50 50 50 50[K./qSim 50 50 50 50[11Peclipsespepse./qSim 50 50 50 50[K[K[K[K[K[K[K[K[K[K[K100 100 100 100
+Number of customers: 100 Total time required: 100
+Number of tellers: 100 Queuing type: One line per teller
+Average service time: 100
+Maximum amount of time in bank: 1.4013e-45
+Total teller service time: 9.18341e-41 Total teller idle time: 1.6069e+19
+]0;sstorm0@U16: ~/git/homework-4-g/src[01;32msstorm0@U16[00m:[01;34m~/git/homework-4-g/src[00m$ ^C
+]0;sstorm0@U16: ~/git/homework-4-g/src[01;32msstorm0@U16[00m:[01;34m~/git/homework-4-g/src[00m$ ./qSim 100 100 100 100[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K200 200 200 200
+Number of customers: 200 Total time required: 200
+Number of tellers: 200 Queuing type: One line per teller
+Average service time: 200
+Maximum amount of time in bank: 1.4013e-45
+Total teller service time: 9.18341e-41 Total teller idle time: 63167
+]0;sstorm0@U16: ~/git/homework-4-g/src[01;32msstorm0@U16[00m:[01;34m~/git/homework-4-g/src[00m$ ^C
+]0;sstorm0@U16: ~/git/homework-4-g/src[01;32msstorm0@U16[00m:[01;34m~/git/homework-4-g/src[00m$ ./qSim 200 200 200 200100 100 100 100[4P50 50 50 50100 100 100 100
+Number of customers: 100 Total time r

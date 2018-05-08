@@ -1,0 +1,6 @@
+Number of customers: 50 Total time required: 50
+Number of tellers: 50 Queuing type: One line per teller
+Average service time: 50
+Maximum amount of time in bank: 1.4013e-45
+Total teller service time: 9.18341e-41 Total teller idle time: 1.6069e+19
+
